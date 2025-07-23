@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Leoncito_web_pro</artifactId>
+	<artifactId>leoncitowebpro</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Leoncito_web_pro</name>
+	<name>leoncitowebpro</name>
 	<description>Leoncito S.A.C</description>
 	<url/>
 	<licenses>
